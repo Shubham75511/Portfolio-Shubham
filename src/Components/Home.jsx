@@ -50,7 +50,7 @@ function Home() {
                   label="Resume"
                 />
               </a>
-              <a href="#contact">
+              <a href="mailto:shubhamkharche1410@gmail.com">
                 <ButtonWithImage
                   icon={contact}
                   activeIcon={contactActive}
