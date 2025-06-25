@@ -6,7 +6,7 @@ const contacts = [
   {
     label: "Email",
     icon: email,
-    link: "shubhamkharche1410@gmail.com",
+    link: "mailto:shubhamkharche1410@gmail.com",
   },
   {
     label: "LinkedIn",
